@@ -1,3 +1,5 @@
+![GitHub Banner](A_2D_digital_graphic_banner_in_horizontal_format_i.png)
+
 # Hi, I'm Esther Oziowuh Emmanuel 👋  
 Aspiring Data Analyst | Excel • SQL • Python  
 Learning with IBM Professional Data Analyst Certificate
