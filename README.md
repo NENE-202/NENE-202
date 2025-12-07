@@ -25,5 +25,5 @@ Learning with IBM Professional Data Analyst Certificate
 IBM Professional Data Analyst Certificate
 
 ## 📬 Connect with Me  
-LinkedIn: https://www.linkedin.com/in/OZIOWUHEMMANUEL/
+LinkedIn:https://www.linkedin.com/in/oziowuh-emmanuel-654034292/
 
