@@ -1,4 +1,4 @@
-Hi, I'm Esther Oziowuh Emmanuel 👋  
+Hi, I'm Esther .O. Emmanuel 👋  
 
 Certified IBM Data Analyst | Excel • SQL • Python  
 
