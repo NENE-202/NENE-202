@@ -48,6 +48,7 @@ I am a certified IBM Data Analyst with hands-on experience analyzing real-world 
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/oziowuh-emmanuel-654034292/
+- **LinkedIn:** 
+https://www.linkedin.com/in/esther-emmanuel-654034292?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 I am actively seeking **Data Analyst Intern** or **Junior Data Analyst** opportunities where I can apply my skills, grow professionally, and contribute to impactful projects.
