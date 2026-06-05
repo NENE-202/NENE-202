@@ -1,54 +1,31 @@
-Hi, I'm Esther .O. Emmanuel 👋  
+# Hi, I'm Esther Emmanuel 👋
 
-Certified IBM Data Analyst | Excel • SQL • Python  
+Data Analyst skilled in Power BI, SQL, Excel, and Python.
 
-I am a certified IBM Data Analyst with hands-on experience analyzing real-world datasets, building dashboards, and delivering actionable insights to support data-driven decision-making. I enjoy transforming raw data into meaningful stories that help organizations understand trends, risks, and opportunities.
+I build dashboards and analytical solutions that help organizations make data-driven decisions.
 
----
+## Skills
 
-## 🔍 What I Do
-- Analyze, clean, and transform datasets using SQL and Python  
-- Build interactive dashboards and reports using Excel  
-- Perform exploratory data analysis (EDA) to uncover patterns and trends  
-- Translate data findings into clear insights and practical recommendations  
+- Power BI
+- SQL
+- Excel
+- Python
+- Power Query
+- DAX
+- PostgreSQL
 
----
+## Featured Projects
 
-## 🛠️ Tools & Skills
-- **Excel:** Pivot Tables, KPIs, Dashboards  
-- **SQL:** PostgreSQL (queries, joins, aggregations)  
-- **Python:** Pandas, Matplotlib, Seaborn  
-- **Jupyter Notebook**  
-- **Data Visualization & Reporting**  
-- **Analytical Thinking & Problem Solving**
+- Hotel Booking Business Intelligence Dashboard
+- Retail Sales Performance Dashboard
+- COVID-19 SQL Analysis
 
----
+## Certifications
 
-## 📂 Featured Projects
-### 🚦 Accident Analysis Dashboard (Excel)
-- Developed an interactive dashboard with KPIs and slicers  
-- Identified high-risk periods and locations contributing to accidents  
-- Provided data-driven recommendations to support accident reduction strategies  
+- IBM Data Analyst Professional Certificate
 
-### 🛒 Superstore Sales Analysis (Python & SQL)
-- Analyzed sales performance, customer behavior, and product trends  
-- Identified top-performing categories and loss-making products  
-- Generated insights to support revenue growth and cost optimization  
+## Open To
 
-### 🏥 Healthcare Data Analysis (Python)
-- Conducted exploratory data analysis on healthcare datasets  
-- Discovered trends in patient data and service utilization  
-- Highlighted insights to support operational and healthcare planning  
-
----
-
-## 🎓 Certifications
-- **IBM Data Analyst Professional Certificate** – Coursera (IBM)
-
----
-
-## 📬 Connect with Me
-- **LinkedIn:** 
-https://www.linkedin.com/in/esther-emmanuel-654034292?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-I am actively seeking **Data Analyst Intern** or **Junior Data Analyst** opportunities where I can apply my skills, grow professionally, and contribute to impactful projects.
+- Data Analyst Internships
+- Junior Data Analyst Roles
+- Business Intelligence Analyst Roles
