@@ -1,4 +1,4 @@
-# Hi, I'm Esther Emmanuel 👋
+# Hi, I'm Esther Ohuenene Emmanuel 👋
 
 Data Analyst skilled in Power BI, SQL, Excel, and Python.
 
